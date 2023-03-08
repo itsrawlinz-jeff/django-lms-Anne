@@ -24,3 +24,5 @@ TODO:
 			- Implement course add and drop calendar switching: If it is on, then students can able to add or drop courses.
 	- Apply Filtering and exporting for all tables.
 			- Consider using jQuery libraries
+
+			-CURRENTLY LEFT TO IMPLENT RESTRICTED ATTENDANCES FOR THE EXAMS 75
